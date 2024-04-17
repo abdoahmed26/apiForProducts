@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "productImg": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+            "title": "iPhone 9",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 549
+        },
+        {
+            "id": "2",
+            "productImg": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+            "title": "iPhone X",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 899
+        },
+        {
+            "id": "3",
+            "productImg": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+            "title": "Samsung Universe 9",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 1249
+        },
+        {
+            "id": "4",
+            "productImg": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+            "title": "OPPOF19",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 280
+        },
+        {
+            "id": "5",
+            "productImg": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+            "title": "Huawei P30",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 499
+        },
+        {
+            "id": "6",
+            "productImg": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+            "title": "MacBook Pro",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 1799
+        },
+        {
+            "id": "7",
+            "productImg": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+            "title": "Samsung Galaxy Book",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 1400
+        },
+        {
+            "id": "8",
+            "productImg": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+            "title": "Microsoft Surface Laptop 4",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 1499
+        }
+    ]
+}
