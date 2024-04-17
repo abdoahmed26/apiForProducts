@@ -2,59 +2,59 @@
     "products": [
         {
             "id": "1",
-            "productImg": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
-            "title": "iPhone 9",
+            "productImg": "https://cdn.dummyjson.com/product-images/62/thumbnail.jpg",
+            "title": "Waterproof Leather Brand Watch",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 549
+            "price": 46
         },
         {
             "id": "2",
-            "productImg": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
-            "title": "iPhone X",
+            "productImg": "https://cdn.dummyjson.com/product-images/64/thumbnail.jpg",
+            "title": "Leather Strap Skeleton Watch",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 899
+            "price": 49
         },
         {
             "id": "3",
-            "productImg": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-            "title": "Samsung Universe 9",
+            "productImg": "https://cdn.dummyjson.com/product-images/67/thumbnail.jpg",
+            "title": "Fashion Magnetic Wrist Watch",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 1249
+            "price": 60
         },
         {
             "id": "4",
-            "productImg": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
-            "title": "OPPOF19",
+            "productImg": "https://cdn.dummyjson.com/product-images/68/thumbnail.webp",
+            "title": "Stylish Luxury Digital Watch",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 280
+            "price": 57
         },
         {
             "id": "5",
-            "productImg": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
-            "title": "Huawei P30",
+            "productImg": "https://cdn.dummyjson.com/product-images/70/2.jpg",
+            "title": "Stainless Steel Women",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 499
+            "price": 35
         },
         {
             "id": "6",
-            "productImg": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
-            "title": "MacBook Pro",
+            "productImg": "https://cdn.dummyjson.com/product-images/71/2.jpg",
+            "title": "Women Shoulder Bags",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 1799
+            "price": 46
         },
         {
             "id": "7",
-            "productImg": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
-            "title": "Samsung Galaxy Book",
+            "productImg": "https://cdn.dummyjson.com/product-images/82/thumbnail.jpg",
+            "title": "Kabir Singh Square Sunglass",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 1400
+            "price": 50
         },
         {
             "id": "8",
-            "productImg": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
-            "title": "Microsoft Surface Laptop 4",
+            "productImg": "https://cdn.dummyjson.com/product-images/72/3.webp",
+            "title": "Handbag For Girls",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 1499
+            "price": 23
         }
     ]
 }
