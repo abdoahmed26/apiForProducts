@@ -2,122 +2,144 @@
     "products": [
         {
             "id": "1",
-            "productImg": "https://cdn.dummyjson.com/product-images/62/thumbnail.jpg",
-            "title": "Waterproof Leather Brand Watch",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png",
+            "title": "Brown Leather Belt Watch",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 46
         },
         {
             "id": "2",
-            "productImg": "https://cdn.dummyjson.com/product-images/64/thumbnail.jpg",
-            "title": "Leather Strap Skeleton Watch",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png",
+            "title": "Longines Master Collection Watch",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 49
         },
         {
             "id": "3",
-            "productImg": "https://cdn.dummyjson.com/product-images/67/thumbnail.jpg",
-            "title": "Fashion Magnetic Wrist Watch",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/thumbnail.png",
+            "title": "Rolex Cellini Date Black Dial",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 60
         },
         {
             "id": "4",
-            "productImg": "https://cdn.dummyjson.com/product-images/68/thumbnail.webp",
-            "title": "Stylish Luxury Digital Watch",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png",
+            "title": "Rolex Cellini Moonphase Watch",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 57
         },
         {
             "id": "5",
-            "productImg": "https://cdn.dummyjson.com/product-images/70/2.jpg",
-            "title": "Stainless Steel Women",
+            "productImg": "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/thumbnail.png",
+            "title": "Amazon Echo Plus",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 35
         },
         {
             "id": "6",
-            "productImg": "https://cdn.dummyjson.com/product-images/71/2.jpg",
-            "title": "Women Shoulder Bags",
+            "productImg": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/thumbnail.png",
+            "title": "Apple AirPods Max Silver",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 46
         },
         {
             "id": "7",
-            "productImg": "https://cdn.dummyjson.com/product-images/82/thumbnail.jpg",
-            "title": "Kabir Singh Square Sunglass",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 50
-        },
-        {
-            "id": "8",
-            "productImg": "https://cdn.dummyjson.com/product-images/72/3.webp",
-            "title": "Handbag For Girls",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 23
-        },
-        {
-            "id": "9",
-            "productImg": "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg",
-            "title": "Pubg Printed Graphic T-Shirt",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 46
-        },
-        {
-            "id": "10",
-            "productImg": "https://cdn.dummyjson.com/product-images/52/1.png",
-            "title": "FREE FIRE T Shirt",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 32
-        },
-        {
-            "id": "11",
-            "productImg": "https://cdn.dummyjson.com/product-images/6/2.jpg",
-            "title": "MacBook Pro",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 749
-        },
-        {
-            "id": "12",
-            "productImg": "https://cdn.dummyjson.com/product-images/4/2.jpg",
-            "title": "OPPOF19",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 280
-        },
-        {
-            "id": "13",
-            "productImg": "https://cdn.dummyjson.com/product-images/59/3.jpg",
-            "title": "Spring and summershoes",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 20
-        },
-        {
-            "id": "14",
-            "productImg": "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg",
-            "title": "formal offices shoes",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
-            "price": 57
-        },
-        {
-            "id": "15",
-            "productImg": "https://cdn.dummyjson.com/product-images/84/thumbnail.jpg",
-            "title": "Square Sunglasses",
+            "productImg": "https://cdn.dummyjson.com/products/images/sunglasses/Classic%20Sun%20Glasses/thumbnail.png",
+            "title": "Classic Sun Glasses",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 28
         },
         {
+            "id": "8",
+            "productImg": "https://cdn.dummyjson.com/products/images/sunglasses/Green%20and%20Black%20Glasses/thumbnail.png",
+            "title": "Green and Black Glasses",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 25
+        },
+        {
+            "id": "9",
+            "productImg": "https://cdn.dummyjson.com/products/images/sunglasses/Sunglasses/thumbnail.png",
+            "title": "Sunglasses",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 50
+        },
+        {
+            "id": "10",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/thumbnail.png",
+            "title": "Gigabyte Aorus Men T-Shirt",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 46
+        },
+        {
+            "id": "11",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/thumbnail.png",
+            "title": "Man Short Sleeve T-Shirt",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 32
+        },
+        {
+            "id": "12",
+            "productImg": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png",
+            "title": "Apple MacBook Pro",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 749
+        },
+        {
+            "id": "13",
+            "productImg": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
+            "title": "iPhone X",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 280
+        },
+        {
+            "id": "14",
+            "productImg": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png",
+            "title": "Realme XT",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 200
+        },
+        {
+            "id": "15",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png",
+            "title": "Nike Air Jordan",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 20
+        },
+        {
             "id": "16",
-            "productImg": "https://cdn.dummyjson.com/product-images/65/3.jpg",
-            "title": "Stainless Steel Wrist Watch",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/thumbnail.png",
+            "title": "Puma Future Rider Trainers",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 57
+        },
+        
+        {
+            "id": "17",
+            "productImg": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/thumbnail.png",
+            "title": "Apple Watch Series Gold",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 47
         },
         {
-            "id": "17",
-            "productImg": "https://cdn.dummyjson.com/product-images/63/1.jpg",
-            "title": "Royal Blue Premium Watch",
+            "id": "18",
+            "productImg": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png",
+            "title": "Rolex Submariner Watch",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 50
+        },
+        {
+            "id": "19",
+            "productImg": "https://cdn.dummyjson.com/products/images/sports-accessories/Football/thumbnail.png",
+            "title": "Football",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 10
+        },
+        {
+            "id": "20",
+            "productImg": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png",
+            "title": "Golf Ball",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
+            "price": 5
         }
     ]
 }
