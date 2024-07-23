@@ -10,7 +10,7 @@
         {
             "id": "2",
             "productImg": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png",
-            "title": "Longines Master Collection Watch",
+            "title": "Longines Master Collection",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 49
         },
@@ -24,7 +24,7 @@
         {
             "id": "4",
             "productImg": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png",
-            "title": "Rolex Cellini Moonphase Watch",
+            "title": "Rolex Cellini Moonphase",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate eveniet eos rem molestiae repellendus, ducimus distinctio      perspiciatis veniam, neque iure illo eligendi. Lorem ipsum dolor sit      amet, consectetur adipisicing elit Suscipit consectetur.",
             "price": 57
         },
